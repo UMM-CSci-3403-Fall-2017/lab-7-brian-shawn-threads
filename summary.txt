@@ -1,0 +1,2 @@
+Multithreaded server can handle multiple clients. We run it with 100 clients and the difference between original server and multithreaded 
+server is 6 seconds. So multithreaded server is more efficient.
